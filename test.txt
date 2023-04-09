@@ -2,7 +2,7 @@
 
 My first work with git!
 
-add lines.
+add line.
 
 some big changes.
 
